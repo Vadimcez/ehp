@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.venv",
+    "\\worker",
+    "\\worker\\worker",
+    "\\worker\\workers"
+  ],
+  "SelectedNode": "\\.venv",
+  "PreviewInSolutionExplorer": false
+}
